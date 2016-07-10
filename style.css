@@ -1,0 +1,154 @@
+body
+{
+background: url(black.png);
+
+}
+.container_12 .grid_12
+ {
+    width: 940px;
+    text-align: center;
+    margin: 0px;
+}
+
+.footer2.foot1
+{
+  position: fixed;
+  left:0;
+  bottom: 0;
+
+}
+.footer1 ul li
+{
+
+  border-top: 1px solid #b7864e;
+  border-bottom: 1px solid #b7864e;
+display: inline;
+float: right;
+margin: 0px;
+}
+.f1
+{
+  margin-left: 10px;
+  margin: 0px;
+}
+
+.footer1
+{
+  position: fixed;
+  bottom:0;
+  right: 0;
+}
+.heading
+{
+background: url(infinity.png)no-repeat;
+background-size: 148px 111px;
+background-position:76px 12px;
+margin-bottom: 0px;
+}
+
+.container1
+{
+padding-top: 10px;
+}
+.lines
+{
+font-family: 'Great Vibes', cursive;
+font-size:46px;
+padding-top: 20px;
+padding-left: 6px;
+color: wheat;
+}
+.grid_4.img2
+{
+  margin-top: 22px;
+}
+
+#image
+{
+background: url(pi1.jpg)no-repeat;
+margin: 0;
+width: 100%;
+height: 100%;
+position: relative;
+top: 0;
+left:0;
+background-size: cover;
+background-attachment: fixed;
+}
+
+
+
+.list
+{
+margin-top: 29px;
+
+}
+h1.heading
+{
+font-family: 'Great Vibes', cursive;
+font-size: 100px;
+text-align: center;
+}
+.footer
+{
+margin-top: 30px;
+
+}
+
+.foot1{
+padding: 0px;
+font-size: 10px;
+}
+h1,p,a
+{
+  /*font-family: 'Chewy', cursive;*/
+
+font-family: 'Paytone One', sans-serif;
+font-size: 60px;
+color: #b7864e;
+
+
+}
+li a
+{
+font-size: 15px;
+font-style: oblique;
+
+}
+nav li
+{
+display: inline;
+padding-bottom: 0px;
+padding-top: 25px;
+}
+
+
+li a:link, a:visited
+{
+color: #b7864e;
+text-decoration: underline;
+cursor: auto;
+
+}
+
+li a:link:active, a:visited:active
+ {
+color: #b7864e;
+}
+/*<div class="hero grid_12">
+<imgsrc="hero/pi7.jpg" width="100%" height="100%" alt="image1"  />
+</div>
+<imgsrc="hero/pi7.jpg" width="100%" height="100%" alt="image1" />
+
+<div class="grid_1 facebook">
+<a href="#"><imgsrc="pi1.png" width="100%" height="100%" alt="image1"  />
+</div></a>
+<div class="grid_1 twitter">
+<a href="#"><imgsrc="pi.png" width="100%" height="100%" alt="image1"  /></a>
+</div>
+<div class="grid_1 insta">
+<a href="#"><imgsrc="f.png" width="100%" height="100%" alt="image1"  /></a>
+</div>
+<div class="grid_1 pin">
+<a href="#"><imgsrc="twit.png" width="100%" height="100%" alt="image1"  /></a>
+</div>
